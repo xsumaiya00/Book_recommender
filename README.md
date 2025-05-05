@@ -66,3 +66,7 @@ Response:
 - Add fuzzy title search (partial match / typo handling)
 - Add filter by genre or year
 - Deploy to cloud or containerize with Docker
+
+  ## 🧱 Architecture Diagram
+![Architecture Diagram](Book_Recommendation_Architecture.png)
+
