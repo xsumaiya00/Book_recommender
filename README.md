@@ -68,5 +68,5 @@ Response:
 - Deploy to cloud or containerize with Docker
 
   ## 🧱 Architecture Diagram
-![Architecture Diagram](Book_Recommendation_Architecture.png)
+![Architecture Diagram](Book_Recommendation_Architecture1.png)
 
